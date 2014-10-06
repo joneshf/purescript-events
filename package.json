@@ -1,6 +1,6 @@
 {
   "name": "purescript-events",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "PureScript types for Events.",
   "license": "MIT",
   "devDependencies": {
