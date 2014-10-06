@@ -7,5 +7,7 @@
     newtype Event where
       Event :: String -> Event
 
+    data EventEff :: !
+
 
 
