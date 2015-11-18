@@ -2,5 +2,8 @@
   "name": "purescript-events",
   "version": "0.1.2",
   "description": "PureScript types for Events.",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "purescript-functions": "~0.1.0-rc.1"
+  }
 }
